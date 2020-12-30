@@ -6,7 +6,7 @@ hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 author: Walt Whitman
 
 ---
-I have heard what the talkers were talking, the talk of the  
+The beginning I have heard what the talkers were talking, the talk of the  
 beginning and the end
 
 But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
